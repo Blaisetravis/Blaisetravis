@@ -1,6 +1,5 @@
 -  @Blaisetravis
 -  I’m interested in web apps.
--  I’m currently learning vanilla JS
 -  Looking to collab on anything web related right now.
 <!---
 Blaisetravis/Blaisetravis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
